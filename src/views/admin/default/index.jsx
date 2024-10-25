@@ -52,6 +52,7 @@ import Tasks from "views/admin/default/components/Tasks";
 import TotalSpent from "views/admin/default/components/TotalSpent";
 import BinarySizeCompare from "views/admin/default/components/TalkDashboard/BinarySizeCompare";
 import BuildTimeCompare from "views/admin/default/components/TalkDashboard/BuildTimeCompare";
+import HeavyBuildList from "views/admin/default/components/TalkDashboard/HeavyBuildList";
 import WeeklyRevenue from "views/admin/default/components/WeeklyRevenue";
 import {
   columnsDataCheck,
@@ -151,6 +152,7 @@ export default function UserReports() {
       <SimpleGrid columns={{ base: 1, md: 2, xl: 2 }} gap='20px' mb='20px'>
         <BinarySizeCompare />
         <BuildTimeCompare />
+        <HeavyBuildList />
         <TotalSpent />
         <WeeklyRevenue />
       </SimpleGrid>
