@@ -50,8 +50,8 @@ import DailyTraffic from "views/admin/default/components/DailyTraffic";
 import PieCard from "views/admin/default/components/PieCard";
 import Tasks from "views/admin/default/components/Tasks";
 import TotalSpent from "views/admin/default/components/TotalSpent";
-import BinarySizeCompare from "views/admin/default/components/BinarySizeCompare";
-import BuildTimeCompare from "views/admin/default/components/BuildTimeCompare";
+import BinarySizeCompare from "views/admin/default/components/TalkDashboard/BinarySizeCompare";
+import BuildTimeCompare from "views/admin/default/components/TalkDashboard/BuildTimeCompare";
 import WeeklyRevenue from "views/admin/default/components/WeeklyRevenue";
 import {
   columnsDataCheck,
