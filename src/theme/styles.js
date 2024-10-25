@@ -77,6 +77,9 @@ export const globalStyles = {
     gray: {
       100: "#FAFCFE",
     },
+    kakao: {
+      100: "#FEE500",
+    }
   },
   styles: {
     global: (props) => ({
