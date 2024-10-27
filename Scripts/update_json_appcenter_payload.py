@@ -71,7 +71,7 @@ if __name__ == "__main__":
         "sha": sha,
         "url": url,
         "size": size,
-        "duration": duration
+        "time": duration
     }
 
     update_or_append(FILE_PATH, new_record)
