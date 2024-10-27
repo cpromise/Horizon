@@ -1,7 +1,7 @@
 import { mode } from "@chakra-ui/theme-tools";
 export const globalStyles = {
   colors: {
-    brand: {
+    brandBackup: {
       100: "#E9E3FF",
       200: "#422AFB",
       300: "#422AFB",
@@ -11,6 +11,17 @@ export const globalStyles = {
       700: "#02044A",
       800: "#190793",
       900: "#11047A",
+    },
+    brand: {
+      100: "#FDBF29",
+      200: "#FDBF29",
+      300: "#FDBF29",
+      400: "#FDBF29",
+      500: "#FDBF29",
+      600: "#FDBF29",
+      700: "#FDBF29",
+      800: "#FDBF29",
+      900: "#FDBF29",
     },
     brandScheme: {
       100: "#E9E3FF",
@@ -78,7 +89,8 @@ export const globalStyles = {
       100: "#FAFCFE",
     },
     kakao: {
-      100: "#FEE500",
+      100: "#FDBF29",
+      500: "#FDBF29",
     }
   },
   styles: {

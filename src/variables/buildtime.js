@@ -39,11 +39,11 @@
         color: "#4318FF",
       },
     },
-    colors: ["#FEE500", "#39B8FF"],
+    colors: ["#FDBF29", "#39B8FF"],
     markers: {
       size: 0,
       colors: "white",
-      strokeColors: "#FEE500",
+      strokeColors: "#FDBF29",
       strokeWidth: 3,
       strokeOpacity: 0.9,
       strokeDashArray: 0,
