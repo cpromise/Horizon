@@ -1,6 +1,6 @@
  
   // Total Spent Default
-  const ipaSizeInfo = require('./kodepayload.json');
+  const ipaSizeInfo = require('./appcenter_payload.json');
   const sliceSize = 7
   const sizes = ipaSizeInfo.slice(-sliceSize).map(item => item.size);
   const dates = ipaSizeInfo.slice(-sliceSize).map(item => item.date);

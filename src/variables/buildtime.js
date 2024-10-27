@@ -1,6 +1,6 @@
  
   // Total Spent Default
-  const buildTimeInfo = require('./kodepayload.json');
+  const buildTimeInfo = require('./appcenter_payload.json');
   const sliceSize = 7
   const times = buildTimeInfo.slice(-sliceSize).map(item => item.time);
   const dates = buildTimeInfo.slice(-sliceSize).map(item => item.date);
