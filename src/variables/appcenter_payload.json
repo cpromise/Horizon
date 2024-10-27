@@ -61,5 +61,12 @@
         "url": "someurl",
         "size": 282,
         "duration": 282.0
+    },
+    {
+        "date": "2024-03-11T17:26:56.282921+09:00",
+        "sha": "[\"424cda1112a71313f96ade06dbf95e45b3869856\"]",
+        "url": "https://kode.onkakao.net/%40dj/download/d85b0dab-86d4-4542-ac52-eb7a3efc10ec/jobs/Sandbox_CI/artifacts/SandboxTalk-11.1.2%282024.10.2.1%29.ipa",
+        "size": 66741882,
+        "duration": null
     }
 ]
