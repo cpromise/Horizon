@@ -54,5 +54,12 @@
         "appcenter": "89e39353-0100-458a-9174-7318aa183c5b/releases/36719",
         "time": 277,
         "size": 462.8
+    },
+    {
+        "date": "2024-10-26",
+        "sha": "sha_0",
+        "url": "ipa_file_0",
+        "size": 66741882,
+        "time": null
     }
 ]
